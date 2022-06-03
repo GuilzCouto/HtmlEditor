@@ -1,0 +1,16 @@
+C:\Users\servidor2\HtmlEditor\bin\Debug\net5.0\HtmlEditor.exe
+C:\Users\servidor2\HtmlEditor\bin\Debug\net5.0\HtmlEditor.deps.json
+C:\Users\servidor2\HtmlEditor\bin\Debug\net5.0\HtmlEditor.runtimeconfig.json
+C:\Users\servidor2\HtmlEditor\bin\Debug\net5.0\HtmlEditor.runtimeconfig.dev.json
+C:\Users\servidor2\HtmlEditor\bin\Debug\net5.0\HtmlEditor.dll
+C:\Users\servidor2\HtmlEditor\bin\Debug\net5.0\ref\HtmlEditor.dll
+C:\Users\servidor2\HtmlEditor\bin\Debug\net5.0\HtmlEditor.pdb
+C:\Users\servidor2\HtmlEditor\obj\Debug\net5.0\HtmlEditor.csproj.AssemblyReference.cache
+C:\Users\servidor2\HtmlEditor\obj\Debug\net5.0\HtmlEditor.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\servidor2\HtmlEditor\obj\Debug\net5.0\HtmlEditor.AssemblyInfoInputs.cache
+C:\Users\servidor2\HtmlEditor\obj\Debug\net5.0\HtmlEditor.AssemblyInfo.cs
+C:\Users\servidor2\HtmlEditor\obj\Debug\net5.0\HtmlEditor.csproj.CoreCompileInputs.cache
+C:\Users\servidor2\HtmlEditor\obj\Debug\net5.0\HtmlEditor.dll
+C:\Users\servidor2\HtmlEditor\obj\Debug\net5.0\ref\HtmlEditor.dll
+C:\Users\servidor2\HtmlEditor\obj\Debug\net5.0\HtmlEditor.pdb
+C:\Users\servidor2\HtmlEditor\obj\Debug\net5.0\HtmlEditor.genruntimeconfig.cache
